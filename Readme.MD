@@ -39,7 +39,7 @@ For sequences of up to 400 amino acids, the tool attempts to retrieve a predicte
 Replace the example repository URL with your actual GitHub repository URL.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ProtForge-AI.git
+git clone https://github.com/ahmadsam66/ProtForge-AI.git
 cd ProtForge-AI
 ```
 
