@@ -1,6 +1,7 @@
 # ProtForge-AI
 
 **ProtForge-AI is a Python-based protein sequence analysis tool that calculates physicochemical properties, estimates exploratory developability metrics, retrieves predicted 3D structures, and generates comprehensive PDF reports.**
+![ProtForge-AI Workflow](ProtForge-AI%20Protein%20Analysis%20Workflow.png)
 
 ## Overview
 
